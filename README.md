@@ -1,2 +1,2 @@
 # git_hooks
-tesdt usage of git hooks
+test usage of git hooks
