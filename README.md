@@ -46,7 +46,7 @@ This works as desired. Now try with remote on Raspberry Pi (the intended target.
 git remote add prelude ssh://hbarta@prelude:/home/hbarta/Downloads/git_hooks
 ```
 
-This works. Also need to add the following to push to prelude by deraulkt (e.g. `git push` pushes to all three remotes.)
+This works. Also need to add the following to push to prelude by default (e.g. `git push` pushes to all three remotes.)
 
 ```text
 git remote set-url --add --push origin  ssh://hbarta@prelude:/home/hbarta/MyDocs//my-notes
